@@ -13,7 +13,7 @@
     <a href="https://twitter.com/codecraftspro" target="blank"><img src="https://img.shields.io/twitter/follow/codecraftspro?logo=twitter&style=for-the-badge" alt="codecraftspro" /></a> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://dominicmburu.github.io/my-portfolio/](https://dominicmburu.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://my-portfolio-three-iota-22.vercel.app/)
 
 - 💬 Ask me about **Android development, web development, and Java.**
 
